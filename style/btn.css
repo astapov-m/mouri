@@ -1,0 +1,40 @@
+.a-btn {
+    border-radius: 20px;
+    border: 1px solid white;
+    color: #FFFFFF;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 12px 45px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    transition: transform 80ms ease-in;
+    text-decoration: none;
+    margin: 5px;
+}
+
+.a-btn:hover{
+    color: white;
+    background-color: #4f4f4b;
+    opacity: 0.98;
+}
+.btn-product{
+    border-radius: 20px;
+    border: 1px solid black;
+    color: black;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 12px 45px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    transition: transform 80ms ease-in;
+    text-decoration: none;
+    margin: 5px;
+}
+.btn-product:hover{
+    color: black;
+    background-color: #a1a19c;
+    opacity: 0.98;
+}
+
+
+

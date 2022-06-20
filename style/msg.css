@@ -1,0 +1,13 @@
+.msg{
+    color: red;
+}
+.none {
+    display: none;
+}
+
+.error {
+    border-bottom: 2px solid #ff4332;
+}
+.msg-ok{
+    color: green;
+}
